@@ -79,7 +79,7 @@
         "Plate up the pasta, top with the chicken, diced parsley and finish with the halloumi."
       ],
       "notes": "",
-      "imageData": "Public/Images/Recipes/bbq-halloumi-chicken-pasta.jpg",
+      "imageData": "Images/Recipes/bbq-halloumi-chicken-pasta.jpg",
       "createdAt": "2025-11-29T12:34:15.339Z",
       "updatedAt": "2025-12-13T13:56:16.834Z"
     },
@@ -194,7 +194,7 @@
         "Add the shredded chicken in the pan and heat through. Stir through pesto and cream. Pop pasta and beans in with the chicken mix and stir to coat, adding a little of the cooking water. Season and sprinkle with Parmesan."
       ],
       "notes": "Source: https://www.bbcgoodfood.com/recipes/creamy-chicken-green-bean-pesto-pasta",
-      "imageData": "Public/Images/Recipes/chicken-and-pesto-pasta.jpeg",
+      "imageData": "Images/Recipes/chicken-and-pesto-pasta.jpeg",
       "createdAt": "2025-12-14T20:38:09.344Z",
       "updatedAt": "2025-12-14T20:40:28.281Z"
     },
@@ -240,7 +240,7 @@
         "Serve with lemon wedges and caster sugar, or your favourite filling. Once cold, you can layer the pancakes between baking parchment, then wrap in cling film and freeze for up to 2 months."
       ],
       "notes": "Source: https://www.bbcgoodfood.com/recipes/easy-pancakes",
-      "imageData": "Public/Images/Recipes/pancakes.jpeg",
+      "imageData": "Images/Recipes/pancakes.jpeg",
       "createdAt": "2025-12-14T20:52:01.828Z",
       "updatedAt": "2025-12-14T20:54:40.396Z"
     },
@@ -309,7 +309,7 @@
         "Eat cold or microwave on medium for 4-5 minutes, stirring halfway through."
       ],
       "notes": "Source: Love Your Lunch Box - James Ramsden",
-      "imageData": "Public/Images/Recipes/jambalaya.webp",
+      "imageData": "Images/Recipes/jambalaya.webp",
       "createdAt": "2025-12-14T20:59:45.316Z",
       "updatedAt": "2025-12-14T21:03:24.645Z"
     },
@@ -377,7 +377,7 @@
         "Once baked, leave to cool and then fill with your filling of choice (Nutella or Chocolate Fudge Icing are good choices)"
       ],
       "notes": "",
-      "imageData": "Public/Images/Recipes/moist-chocolate-cake.jpg",
+      "imageData": "Images/Recipes/moist-chocolate-cake.jpg",
       "createdAt": "2025-12-14T21:08:51.683Z",
       "updatedAt": "2025-12-14T21:08:51.683Z"
     }
