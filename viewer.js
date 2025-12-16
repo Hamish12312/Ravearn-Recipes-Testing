@@ -8,7 +8,7 @@
   // Load the JSON
   async function loadJSON(){
     try {
-      const res = await fetch('./Data/recipes.json', {cache: "no-store"});
+      const res = await fetch('./data/recipes.json', {cache: "no-store"});
       if(!res.ok) throw new Error('No recipes.json found');
       return await res.json();
     } catch(err){
