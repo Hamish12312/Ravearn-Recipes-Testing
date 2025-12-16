@@ -39,6 +39,11 @@ body {
   margin: 0 auto;
 }
 
+.brand-link {
+  text-decoration: none;
+  color: inherit;
+}
+
 .site-brand h1 {
   font-family: "Fredericka the Great", serif;
   font-weight: 400;
@@ -85,7 +90,7 @@ body {
 .btn {
   padding: 10px 16px;
   border-radius: 12px;
-  background: linear-gradient(135deg, #ff9966, #ff5e62);
+  background-color: #404040;
   color: #fff;
   text-decoration: none;
   font-weight: 600;
