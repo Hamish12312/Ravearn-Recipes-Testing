@@ -44,6 +44,10 @@ body {
   color: inherit;
 }
 
+.brand-link:visited {
+  color: inherit;
+}
+
 .site-brand h1 {
   font-family: "Fredericka the Great", serif;
   font-weight: 400;
