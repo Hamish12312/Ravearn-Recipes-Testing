@@ -18,7 +18,10 @@
   }
 
   const data = await loadJSON();
-  const recipes = (data.recipes || []).slice().reverse(); // newest first
+  const recipes = (data.recipes || []).slice().sort((a, b) => {
+    return (a.title || '').localeCompare(b.title || '');
+  });
+
   // Update last update
   const lastUpdate = data.meta && data.meta.generatedAt ? new Date(data.meta.generatedAt).toLocaleString() : '—';
   const lastEl = document.getElementById('lastUpdate');
@@ -75,7 +78,6 @@
           </div>
         `;
         card.addEventListener('click', ()=> {
-          // prefer slug param
           const url = new URL(window.location.href);
           window.location = `recipe.html?${r.slug ? 'slug='+encodeURIComponent(r.slug) : 'id='+r.id}`;
         });
